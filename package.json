@@ -1,0 +1,13 @@
+{
+  "name": "knip-jest-entry-exports",
+  "scripts": {
+    "knip": "knip --include-entry-exports"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.9",
+    "jest": "^29.7.0",
+    "knip": "^5.38.0",
+    "typescript": "^5.5.3"
+  }
+}
